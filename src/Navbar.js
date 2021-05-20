@@ -1,9 +1,9 @@
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
 import { Link } from 'react-router-dom'
-import menu from './menu.png';
+
 // import {,Nav,NavItem,NavDropdown,MenuItem} from 'react-bootstrap';
-import {Navbar,Nav,NavDropdown,} from 'react-bootstrap';
+import {Navbar,Nav,NavDropdown} from 'react-bootstrap';
 
 
 function Navbar2(props) {
